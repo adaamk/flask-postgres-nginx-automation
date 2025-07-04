@@ -111,13 +111,9 @@ http://<your_vm_ip>/
 
 ## 🖼️ Screenshot
 
-*Here you can add a screenshot of the app running.*
-
-Example Markdown to embed it:
-
-```markdown
-![App Screenshot](screenshot.png)
-```
+<p align="center">
+  <img src="/screenshot.png"width="500">
+</p>
 
 ---
 
